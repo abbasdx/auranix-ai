@@ -17,18 +17,23 @@ Built with a **Flutter** frontend and **FastAPI** backend, **Auranix** leverages
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot-2.png" alt="Home Screen" width="45%" />
-  <img src="screenshots/Screenshot-3.png" alt="Loading / Fetching" width="45%" />
+  <img src="screenshots/Screenshot-1.png" alt="Home Screen" width="45%" />
+  <img src="screenshots/Screenshot-6.png" alt="Loading / Fetching" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot-4.png" alt="AI Reply View" width="45%" />
-  <img src="screenshots/Screenshot-5.png" alt="AI Reply View" width="45%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot-6.png" alt="AI Reply View" width="45%" />
   <img src="screenshots/Screenshot-7.png" alt="AI Reply View" width="45%" />
+  <img src="screenshots/Screenshot-8.png" alt="AI Reply View" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot-9.png" alt="AI Reply View" width="45%" />
+  <img src="screenshots/Screenshot-10.png" alt="AI Reply View" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot-11.png" alt="AI Reply View" width="45%" />
+  <img src="screenshots/Screenshot-12.png" alt="AI Reply View" width="45%" />
 </p>
 
 
