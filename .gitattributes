@@ -7,3 +7,6 @@
 *.aab filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+
+linux/** linguist-vendored=true
+windows/** linguist-vendored=true
